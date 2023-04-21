@@ -1,0 +1,27 @@
+.job-container {
+  padding: 40px;
+  background-color: #f8f6f6;
+  height: 392px;
+  width: 648px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.Details-btn {
+  background: linear-gradient(90deg, #7e90fe 0%, #9873ff 100%);
+  border-radius: 8px;
+  color: #ffffff;
+  font-style: normal;
+  font-size: 20px;
+  border: none;
+  width: 10rem;
+  height: 49px;
+  text-align: center;
+}
+.job-type {
+  border: 1px solid #7e90fe;
+  padding: 9px 19px;
+  color: #7e90fe;
+  font-weight: 600;
+  border-radius: 10px;
+}

@@ -1,0 +1,144 @@
+[
+    {
+      "job_title": "Software Engineer",
+      "address":"Dhaka, Bangladesh",
+      "company":"Google LLC",
+      "_id":"1",
+      "job_type": "Full-time",
+      "job_location":"Onsite",
+      "salary": "$100,000 - $120,000 (Per Month)",
+      "image": "https://pngimg.com/uploads/google/google_PNG19636.png",
+      "phone": "(555) 123-4567",
+      "email": "software_engineer@example.com",
+      "experiences":"5+ years of experience in software development",
+      "educational_requirements": "Bachelor's or higher degree in Computer Science or related field",
+      "description": "We are seeking an experienced software engineer to join our team...",
+      "responsibilities": [
+        "Design, develop, and maintain software applications",
+        "Collaborate with cross-functional teams to identify and solve complex problems",
+        "Write clean, efficient, and well-documented code",
+        "Participate in code reviews and provide constructive feedback",
+        "Stay up-to-date with emerging trends and technologies in software development"
+      ]
+    },
+    {
+      "job_title": "Marketing Manager",
+      "address":"Dhanmondi 32, Sukrabad Dhaka, Bangladesh",
+      "company":"Google LLC",
+      "_id":"2",
+      "job_type": "Part-time",
+      "job_location":"Remote",
+      "salary": "$60,000 - $80,000",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png",
+      "phone": "(555) 123-4567",
+      "email": "marketing_manager@example.com",
+      "experiences": [
+        "5+ years of experience in marketing or related field",
+        "Experience with developing and implementing successful marketing strategies",
+        "Strong understanding of digital marketing channels and analytics"
+      ],
+      "educational_requirements": "Bachelor's or higher degree in Marketing or related field",
+      "description": "We are looking for a talented marketing manager to join our team...",
+      "responsibilities": [
+        "Develop and implement marketing strategies to increase brand awareness and drive sales",
+        "Collaborate with cross-functional teams to execute marketing campaigns",
+        "Analyze data to measure campaign performance and make data-driven decisions",
+        "Manage social media and email marketing campaigns",
+        "Stay up-to-date with emerging trends and technologies in marketing"
+      ]
+    },
+    {
+      "job_title": "Graphic Designer",
+      "address":"Dhaka, Bangladesh",
+      "company":"Google LLC",
+      "_id":"3",
+      "job_type": "Freelance",
+      "job_location":"Remote",
+      "salary": "$40 - $60 per hour",
+      "image": "https://i.imgur.com/9M9VPWC.png",
+      "phone": "(555) 123-4567",
+      "email": "graphic_designer@example.com",
+      "experiences": [
+        "3+ years of experience in graphic design or related field",
+        "Strong portfolio showcasing a variety of design skills and styles",
+        "Proficiency in Adobe Creative Suite and other design software"
+      ],
+      "educational_requirements": "Bachelor's or higher degree in Graphic Design or related field",
+      "description": "We are seeking a creative and talented graphic designer to join our team...",
+      "responsibilities": [
+        "Create visual designs that effectively communicate our brand message",
+        "Collaborate with cross-functional teams to develop creative concepts and solutions",
+        "Create design assets for a variety of mediums including digital, print, and social media",
+        "Ensure design consistency and brand standards are maintained across all materials",
+        "Stay up-to-date with emerging trends and technologies in graphic design"
+      ]
+    },
+    {
+        "job_title": "Web Developer",
+        "address":"Sukrabad Dhaka, Bangladesh",
+        "company":"Google LLC",
+        "_id":"4",
+        "job_type": "Full-time",
+        "job_location":"Onsite",
+        "salary": "$80,000 - $100,000 (Per Month)",
+        "image": "https://i.imgur.com/ZAZYZUq.png",
+        "phone": "(555) 234-5678",
+        "email": "web_developer@example.com",
+        "experiences":"3+ years of experience in web development",
+        "educational_requirements": "Bachelor's or higher degree in Computer Science or related field",
+        "description": "We are looking for a skilled web developer to join our team...",
+        "responsibilities": [
+        "Develop and maintain responsive websites",
+        "Collaborate with designers to implement website designs",
+        "Write clean, efficient, and well-documented code",
+        "Participate in code reviews and provide constructive feedback",
+        "Stay up-to-date with emerging trends and technologies in web development"
+        ]
+        },
+        {
+            "job_title": "Data Analyst",
+            "address":"Dhaka, Bangladesh",
+            "company":"Google LLC",
+            "_id":"5",
+            "job_type": "Full-time",
+            "job_location":"Remote",
+            "salary": "$70,000 - $90,000 (Per Month)",
+            "image": "https://www.cyberlinkasp.com/wp-content/uploads/2017/07/Microsoft-Logo-PNG.png",
+            "phone": "(555) 345-6789",
+            "email": "data_analyst@example.com",
+            "experiences":"2+ years of experience in data analysis",
+            "educational_requirements": "Bachelor's or higher degree in Statistics, Mathematics, Computer Science, or related field",
+            "description": "We are seeking a skilled data analyst to join our team...",
+            "responsibilities": [
+            "Collect and analyze large datasets using statistical methods",
+            "Develop and maintain data visualizations and dashboards",
+            "Collaborate with cross-functional teams to identify insights and trends in data",
+            "Participate in data-driven decision-making processes",
+            "Stay up-to-date with emerging trends and technologies in data analysis"
+            ]
+            },
+            {
+              "job_title": "Graphic Designer",
+              "address":"Dhaka, Bangladesh",
+              "company":"Google LLC",
+              "_id":"6",
+              "job_type": "Full-time",
+              "job_location":"Onsite",
+              "salary": "$60,000 - $80,000 (Per Month)",
+              "image": "https://pngimg.com/uploads/google/google_PNG19636.png",
+              "phone": "(555) 567-8901",
+              "email": "graphic_designer@example.com",
+              "experiences":"3+ years of experience in graphic design",
+              "educational_requirements": "Bachelor's or higher degree in Graphic Design, Fine Arts, or related field",
+              "description": "Looking for a talented Graphic Designer to join our team! The ideal candidate should have a strong portfolio showcasing their creative skills and experience in designing for both digital and print media. Responsibilities will include developing and executing design concepts, collaborating with cross-functional teams, and ensuring brand consistency across all materials. A strong proficiency in Adobe Creative Suite is a must.",
+              "responsibilities": [
+                "Collect and analyze large datasets using statistical methods",
+                "Develop and maintain data visualizations and dashboards",
+                "Collaborate with cross-functional teams to identify insights and trends in data",
+                "Participate in data-driven decision-making processes",
+                "Stay up-to-date with emerging trends and technologies in data analysis"
+                ]
+            }
+]
+     
+  
